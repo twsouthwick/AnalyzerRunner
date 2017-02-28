@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AnalyzerRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "-f IOperation:true -a \"C:\\Users\\tasou\\Projects\\Software\\DotNet-CompatibilityDiagnostics\\bin\\Debug\\Microsoft.DotNet.FrameworkCompatibilityDiagnostics.CSharp\\Microsoft.DotNet.FrameworkCompatibilityDiagnostics.CSharp.dll\" -a \"C:\\Users\\tasou\\Projects\\Software\\DotNet-CompatibilityDiagnostics\\bin\\Debug\\Microsoft.DotNet.FrameworkCompatibilityDiagnostics.CSharp\\Microsoft.DotNet.FrameworkCompatibilityDiagnostics.dll\" -d \"C:\\Users\\tasou\\Downloads\\microsoft.dotnet.frameworkcompatibilitydiagnostics.0.5.0\\content\\net40\\dotnet_compatibility.json\" -- \"C:\\Users\\tasou\\Projects\\Software\\NuGetPackageConfigConverter\\NuGetPackageConfigConverter.sln\""
+    }
+  }
+}
